@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A responsive portfolio using sass",
   "main": "index.js",
-  "homepage": "https://horaciocrespo.github.io/responsive_portfolio",
+  "homepage": "https://horaciocrespo.github.io/responsive-portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HoracioCrespo/responsive-portfolio.git"
+    "url": "git+https://github.com/horaciocrespo/responsive-portfolio.git"
   },
   "author": "Horacio Crespo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HoracioCrespo/responsive-portfolio/issues"
+    "url": "https://github.com/horaciocrespo/responsive-portfolio/issues"
   }
 }
