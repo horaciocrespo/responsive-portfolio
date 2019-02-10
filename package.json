@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "A responsive portfolio using sass",
   "main": "index.js",
-  "homepage": "https://horaciocrespo.github.io",
-  "dependencies": {
+  "homepage": "https://horaciocrespo.github.io/responsive-portfolio",
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
   },
-  "devDependencies": {},
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
