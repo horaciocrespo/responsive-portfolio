@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A responsive portfolio using sass",
   "main": "index.js",
-  "homepage": "https://horaciocrespo.github.io/responsive-portfolio",
+  "homepage": "https://horaciocrespo.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
